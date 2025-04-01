@@ -1,7 +1,7 @@
 ![No Master Branch](https://img.shields.io/badge/Branch-Main%20Only-blue?style=for-the-badge)
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coading" width="400" height="300"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA5M2tyZm10OTB4ZHEyeW11c201aHc2eGc2Nmg5NGl0OXdqY3NsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coading" width="200" height="200" borderradius="5"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA5M2tyZm10OTB4ZHEyeW11c201aHc2eGc2Nmg5NGl0OXdqY3NsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav008&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav008" /> </p>
 
