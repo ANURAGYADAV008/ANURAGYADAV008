@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on *Food Delivery Website*
 
-- 🌱 I’m currently learning *React,Nodejs*
+- 🌱 I’m currently learning *React,Nodejs,Expressjs,MongoDB*
 
 - 📫 How to reach me *jaysinghanurag321@gmail.com*
 
