@@ -1,12 +1,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBrcDk5NnpsMzFmMmRvNHFxZTI4c21xZTlrcGllNHVtYjRydjh3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="GitHub Banner" width="100%" height="100"/>
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full Stack developer from India</h3>
 <img align="center" alt="Coading" width="200" height="200" borderradius="5"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ0MGljdDJ3MnJ2NXhieHp1bWdmcHdqNnNwc3E1cXYycjRscGs4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav008&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragyadav008" alt="anuragyadav008" /></a> </p>
-
 - 🔭 I’m currently working on *Food Delivery Website*
 
 - 🌱 I’m currently learning *React,Nodejs,Expressjs,MongoDB*
