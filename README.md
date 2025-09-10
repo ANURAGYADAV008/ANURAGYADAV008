@@ -9,10 +9,12 @@
 - 📫 How to reach me *jaysinghanurag321@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/.anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".anurag" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+  <a href="https://www.instagram.com/_.an.urag/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.an.urag" height="30" width="40" />
+  </a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragyadav008&show_icons=true&locale=en&layout=compact" alt="anuragyadav008" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragyadav008&show_icons=true&locale=en" alt="anuragyadav008" /></p>
