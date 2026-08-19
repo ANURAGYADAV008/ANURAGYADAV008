@@ -7,7 +7,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vib3withsimran/vib3withsimran/main/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANURAGYADAV008/ANURAGYADAV008/main/light.svg">
     <img src="https://raw.githubusercontent.com/ANURAGYADAV008/ANURAGYADAV008/main/light.svg" width="100%" alt="Simran Gupta — Full Stack Developer — animated profile banner">
   </picture>
 </p>
