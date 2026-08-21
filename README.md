@@ -1,10 +1,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ANURAGYADAV008&theme=dark&hide_border=true" width="90%" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/ANURAGYADAV008/ANURAGYADAV008/output/github-snake-dark.svg" width="90%" />
 </div>
 
